@@ -1,0 +1,50 @@
+{	"data":
+	[
+  {
+    "id":1,
+    "judul":"mutfak",
+    "image":"https://1.bp.blogspot.com/-R7m-bh5ctm4/XqAvhDIiYMI/AAAAAAAAABQ/ZWJl6Q4ueGA7YGXpTmbPT0OgkeM73AJuACLcBGAsYHQ/s1600/mutfak-dolaplari17.jpg",
+    "link":"https://trendyapiahsap.blogspot.com/search/label/mutfak"
+  },
+  {
+    "id":2,
+    "judul":"ofis",
+    "image":"https://1.bp.blogspot.com/-POLTt1rpTy0/XqA7nqbj_zI/AAAAAAAAAHs/H1Fdj9D_p7Ma3mJbigPap4u3YEtXBiKxACLcBGAsYHQ/s1600/11025177_798327586920766_7640099807417760705_n.jpg",
+    "link":"https://trendyapiahsap.blogspot.com/search/label/ofis"
+  },
+  {
+    "id":3,
+    "judul":"Duvar Ve Tavan Çalışmaları",
+    "image":"https://1.bp.blogspot.com/-Yyp5GOGulcc/XqAwox7ejkI/AAAAAAAAAE8/KgigkDTNrbcbGDKDYyvVsmFm7Ri4pDAVwCLcBGAsYHQ/s1600/32446724_1729431280477054_5285381119460507648_n.jpg",
+    "link":"https://trendyapiahsap.blogspot.com/search/label/Duvar%20Ve%20Tavan%20%C3%87al%C4%B1%C5%9Fmalar%C4%B1"
+  },
+
+  {
+    "id":4,
+    "judul":"Bankolar",
+    "image":"https://1.bp.blogspot.com/-X4hHafOGxqc/XqAtABvgmiI/AAAAAAAAAAM/XBf2HtSpaX8EpAkGP3Hx_OL5IjX6Wn36QCLcBGAsYHQ/s1600/bankolar1.jpg",
+    "link":"https://trendyapiahsap.blogspot.com/search/label/Bankolar"
+  },
+  {
+    "id":5,
+    "judul":"Banyo Dolapları",
+    "image":"https://1.bp.blogspot.com/-QROrpXthBS4/XqAv1MJWFrI/AAAAAAAAACQ/c5N9W--Z7bMsbxLIe3haOnSo19K83LMBgCLcBGAsYHQ/s1600/5.jpg",
+    "link":"https://trendyapiahsap.blogspot.com/search/label/Banyo%20Dolaplar%C4%B1"
+  },
+  {
+    "id":6,
+    "judul":"cnc",
+    "image":"https://1.bp.blogspot.com/-14KDJ69fC68/XqAwQ_2QfTI/AAAAAAAAADM/Jvl1PgL4Czw2YKA2urwzP0dGxIGFAniOgCLcBGAsYHQ/s1600/19029544_1491283150958536_7813998968169966424_n.jpg",
+    "link":"https://trendyapiahsap.blogspot.com/search/label/cnc"
+  },
+
+  {
+    "id":7,
+    "judul":" konferans salonu ",
+    "image":"https://1.bp.blogspot.com/-bzJo9wQmgTw/XqA7KqlJlYI/AAAAAAAAAGE/Cd_r5hT46ggP5bZvbBkJi5wm-r3x10MRwCLcBGAsYHQ/s1600/17522876_1285239774885807_4784953598174051715_n.jpg",
+    "link":"https://trendyapiahsap.blogspot.com/search/label/konferans%20salonu"
+  }
+
+]
+
+}

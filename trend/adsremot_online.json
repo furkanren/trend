@@ -1,0 +1,21 @@
+{
+    "redirect": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "pengaturan_iklan":"1",
+        "iklan_splash":"1",
+        "startappid":"",
+        "pub_id": "",
+        "admob_app_id": "",
+        "admob_inter": "",
+        "admob_reward": "",
+        "admob_native": "",
+        "fan_inter": "",
+        "fan_native_banner": "",
+        "deskripsi_update": "simdi indir",
+        "interval": 2,
+        "version_app":1
+        }
+    ]
+}
